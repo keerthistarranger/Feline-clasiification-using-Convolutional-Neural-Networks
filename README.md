@@ -1,4 +1,4 @@
-# Feline-clasiification-using-Convolutional-Neural-Networks
+# Feline-classification-using-Convolutional-Neural-Networks
 
 The dataset includes 25,000 images with equal numbers of labels for cats and dogs which is available at https://www.kaggle.com/c/dogs-vs-cats/data.
 Keras library is used to create CNN model inorder to classify images into cats and dogs.
